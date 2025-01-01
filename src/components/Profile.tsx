@@ -8,7 +8,7 @@ import Typewriter from './TypeWriter'
 import SparklyText from './SparklyText'
 
 export default function Profile() {
-  const typewriterWords = ['Programming', 'Social Engineering', 'Freelancing']
+  const typewriterWords = ['I have a', 'Loving wife', 'Freelancing']
   const typewriterSpeed = 150
 
   return (
@@ -23,7 +23,7 @@ export default function Profile() {
           <div className="flex flex-col">
             <div className="flex flex-row space-x-2 justify-center items-center">
               <SparklyText
-                value="shyzophr3nia"
+                value="x.nabid"
                 classnames="text-4xl"
               ></SparklyText>
               <GlowingIcon icon={faGem} />
@@ -39,12 +39,12 @@ export default function Profile() {
           <GlowingIcon
             link="https://cracked.io/shyzophr3nia"
             icon={faShieldHalved}
-            tooltip="Cracked.io"
+            tooltip="Discord"
           />
           <GlowingIcon
             link="https://github.com/shyzophr3nia"
             icon={faCode}
-            tooltip="GitHub"
+            tooltip="Roblox"
           />
         </div>
       </div>
