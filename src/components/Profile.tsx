@@ -16,7 +16,7 @@ export default function Profile() {
       <div className="flex flex-col backdrop-blur-xl p-16 rounded-xl w-fit space-y-8">
         <div className="flex flex-row items-center gap-8">
           <img
-            src="/favprofile.png"
+            src="/favprofile.jpg"
             alt="profile image"
             className="rounded-full w-32 select-none"
           />
