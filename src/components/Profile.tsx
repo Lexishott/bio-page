@@ -8,7 +8,7 @@ import Typewriter from './TypeWriter'
 import SparklyText from './SparklyText'
 
 export default function Profile() {
-  const typewriterWords = ['I have a', 'Loving wife', 'Freelancing']
+  const typewriterWords = ['I have a', 'Loving wife', 'I love her so much.']
   const typewriterSpeed = 150
 
   return (
@@ -16,7 +16,7 @@ export default function Profile() {
       <div className="flex flex-col backdrop-blur-xl p-16 rounded-xl w-fit space-y-8">
         <div className="flex flex-row items-center gap-8">
           <img
-            src="/favicon.png"
+            src="/favprofile.png"
             alt="profile image"
             className="rounded-full w-32 select-none"
           />
