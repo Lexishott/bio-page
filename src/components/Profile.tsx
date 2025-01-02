@@ -31,7 +31,7 @@ export default function Profile() {
             <span className="text-2xl">
               <Typewriter speed={typewriterSpeed} words={typewriterWords} />
             </span>
-            <p className="opacity-80">shyzophr3nia.me</p>
+            <p className="opacity-80">guns.lol/x.nabid</p>
           </div>
         </div>
         <div className="w-full py-1 rounded-full bg-black opacity-25" />
