@@ -37,12 +37,12 @@ export default function Profile() {
         <div className="w-full py-1 rounded-full bg-black opacity-25" />
         <div className="flex flex-row space-x-4 text-lg justify-center items-center w-full">
           <GlowingIcon
-            link="https://cracked.io/shyzophr3nia"
+            link=""
             icon={faShieldHalved}
             tooltip="Discord"
           />
           <GlowingIcon
-            link="https://github.com/shyzophr3nia"
+            link=""
             icon={faCode}
             tooltip="Roblox"
           />
